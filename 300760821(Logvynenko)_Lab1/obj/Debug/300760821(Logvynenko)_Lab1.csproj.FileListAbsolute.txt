@@ -1,0 +1,40 @@
+C:\Users\LVV\300760821(Logvynenko)_Lab1\300760821(Logvynenko)_Lab1\bin\Debug\300760821(Logvynenko)_Lab1.exe.config
+C:\Users\LVV\300760821(Logvynenko)_Lab1\300760821(Logvynenko)_Lab1\bin\Debug\300760821(Logvynenko)_Lab1.exe
+C:\Users\LVV\300760821(Logvynenko)_Lab1\300760821(Logvynenko)_Lab1\bin\Debug\300760821(Logvynenko)_Lab1.pdb
+C:\Users\LVV\300760821(Logvynenko)_Lab1\300760821(Logvynenko)_Lab1\obj\Debug\300760821(Logvynenko)_Lab1.csprojAssemblyReference.cache
+C:\Users\LVV\300760821(Logvynenko)_Lab1\300760821(Logvynenko)_Lab1\obj\Debug\_300760821_Logvynenko__Lab1.Form1.resources
+C:\Users\LVV\300760821(Logvynenko)_Lab1\300760821(Logvynenko)_Lab1\obj\Debug\_300760821_Logvynenko__Lab1.Properties.Resources.resources
+C:\Users\LVV\300760821(Logvynenko)_Lab1\300760821(Logvynenko)_Lab1\obj\Debug\300760821(Logvynenko)_Lab1.csproj.GenerateResource.cache
+C:\Users\LVV\300760821(Logvynenko)_Lab1\300760821(Logvynenko)_Lab1\obj\Debug\300760821(Logvynenko)_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\LVV\300760821(Logvynenko)_Lab1\300760821(Logvynenko)_Lab1\obj\Debug\300760821(Logvynenko)_Lab1.exe
+C:\Users\LVV\300760821(Logvynenko)_Lab1\300760821(Logvynenko)_Lab1\obj\Debug\300760821(Logvynenko)_Lab1.pdb
+C:\Users\LVV\Downloads\Centennial College\Семестр 4\C#\Assignments\300760821(Logvynenko)_Lab1\300760821(Logvynenko)_Lab1\bin\Debug\300760821(Logvynenko)_Lab1.exe.config
+C:\Users\LVV\Downloads\Centennial College\Семестр 4\C#\Assignments\300760821(Logvynenko)_Lab1\300760821(Logvynenko)_Lab1\bin\Debug\300760821(Logvynenko)_Lab1.exe
+C:\Users\LVV\Downloads\Centennial College\Семестр 4\C#\Assignments\300760821(Logvynenko)_Lab1\300760821(Logvynenko)_Lab1\bin\Debug\300760821(Logvynenko)_Lab1.pdb
+C:\Users\LVV\Downloads\Centennial College\Семестр 4\C#\Assignments\300760821(Logvynenko)_Lab1\300760821(Logvynenko)_Lab1\obj\Debug\300760821(Logvynenko)_Lab1.csprojAssemblyReference.cache
+C:\Users\LVV\Downloads\Centennial College\Семестр 4\C#\Assignments\300760821(Logvynenko)_Lab1\300760821(Logvynenko)_Lab1\obj\Debug\_300760821_Logvynenko__Lab1.Form1.resources
+C:\Users\LVV\Downloads\Centennial College\Семестр 4\C#\Assignments\300760821(Logvynenko)_Lab1\300760821(Logvynenko)_Lab1\obj\Debug\_300760821_Logvynenko__Lab1.Properties.Resources.resources
+C:\Users\LVV\Downloads\Centennial College\Семестр 4\C#\Assignments\300760821(Logvynenko)_Lab1\300760821(Logvynenko)_Lab1\obj\Debug\300760821(Logvynenko)_Lab1.csproj.GenerateResource.cache
+C:\Users\LVV\Downloads\Centennial College\Семестр 4\C#\Assignments\300760821(Logvynenko)_Lab1\300760821(Logvynenko)_Lab1\obj\Debug\300760821(Logvynenko)_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\LVV\Downloads\Centennial College\Семестр 4\C#\Assignments\300760821(Logvynenko)_Lab1\300760821(Logvynenko)_Lab1\obj\Debug\300760821(Logvynenko)_Lab1.exe
+C:\Users\LVV\Downloads\Centennial College\Семестр 4\C#\Assignments\300760821(Logvynenko)_Lab1\300760821(Logvynenko)_Lab1\obj\Debug\300760821(Logvynenko)_Lab1.pdb
+C:\Users\300760821\Downloads\300760821(Logvynenko)_Lab1\obj\Debug\300760821(Logvynenko)_Lab1.csprojAssemblyReference.cache
+C:\Users\300760821\Downloads\300760821(Logvynenko)_Lab1\obj\Debug\_300760821_Logvynenko__Lab1.Form1.resources
+C:\Users\300760821\Downloads\300760821(Logvynenko)_Lab1\obj\Debug\_300760821_Logvynenko__Lab1.Properties.Resources.resources
+C:\Users\300760821\Downloads\300760821(Logvynenko)_Lab1\obj\Debug\300760821(Logvynenko)_Lab1.csproj.GenerateResource.cache
+C:\Users\300760821\Downloads\300760821(Logvynenko)_Lab1\obj\Debug\300760821(Logvynenko)_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\300760821\Downloads\300760821(Logvynenko)_Lab1\obj\Debug\300760821(Logvynenko)_Lab1.exe
+C:\Users\300760821\Downloads\300760821(Logvynenko)_Lab1\obj\Debug\300760821(Logvynenko)_Lab1.pdb
+C:\Users\300760821\Downloads\300760821(Logvynenko)_Lab1\bin\Debug\300760821(Logvynenko)_Lab1.exe.config
+C:\Users\300760821\Downloads\300760821(Logvynenko)_Lab1\bin\Debug\300760821(Logvynenko)_Lab1.exe
+C:\Users\300760821\Downloads\300760821(Logvynenko)_Lab1\bin\Debug\300760821(Logvynenko)_Lab1.pdb
+H:\New folder\300760821(Logvynenko)_Lab1\bin\Debug\300760821(Logvynenko)_Lab1.exe.config
+H:\New folder\300760821(Logvynenko)_Lab1\bin\Debug\300760821(Logvynenko)_Lab1.exe
+H:\New folder\300760821(Logvynenko)_Lab1\bin\Debug\300760821(Logvynenko)_Lab1.pdb
+H:\New folder\300760821(Logvynenko)_Lab1\obj\Debug\300760821(Logvynenko)_Lab1.csprojAssemblyReference.cache
+H:\New folder\300760821(Logvynenko)_Lab1\obj\Debug\_300760821_Logvynenko__Lab1.Form1.resources
+H:\New folder\300760821(Logvynenko)_Lab1\obj\Debug\_300760821_Logvynenko__Lab1.Properties.Resources.resources
+H:\New folder\300760821(Logvynenko)_Lab1\obj\Debug\300760821(Logvynenko)_Lab1.csproj.GenerateResource.cache
+H:\New folder\300760821(Logvynenko)_Lab1\obj\Debug\300760821(Logvynenko)_Lab1.csproj.CoreCompileInputs.cache
+H:\New folder\300760821(Logvynenko)_Lab1\obj\Debug\300760821(Logvynenko)_Lab1.exe
+H:\New folder\300760821(Logvynenko)_Lab1\obj\Debug\300760821(Logvynenko)_Lab1.pdb
